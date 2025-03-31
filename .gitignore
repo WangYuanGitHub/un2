@@ -1,0 +1,36 @@
+Binaries
+Build
+DerivedDataCache
+Intermediate
+Saved
+TEMP
+Temp
+Py
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+Python
+
+
+__pycache__
+*-datas
+
+# private*
+private*
+Content/Model3D
+Plugins
+7-Zip
+UHMP.uproject
+EnvDesignTutorial.pptx
+
+
+# f'.\\7-Zip\\7z.exe a -tzip -mx4 ./Build/uhmp-big-file-v{desired_version}.zip  ./Content/Model3D   ./Plugins  ./7-Zip  ./UHMP.uproject  ./EnvDesignTutorial.pptx'
+# ./7-Zip/7z.exe a  -tzip -mx4 ./Build/tt.zip   -ir!Content\Model3D\Flying\Meshes   7-Zip
+Content/StarterContent
