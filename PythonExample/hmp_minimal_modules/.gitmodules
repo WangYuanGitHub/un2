@@ -1,4 +1,0 @@
-[submodule "THIRDPARTY/pymarl2/pymarl2src"]
-	path = THIRDPARTY/pymarl2/pymarl2src
-	url = https://*********.com/*********/pymarl-hmap-compat.git
-	branch = master
